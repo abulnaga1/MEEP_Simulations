@@ -1,0 +1,14 @@
+-----------
+Initializing structure...
+time for choose_chunkdivision = 9.41753e-05 s
+Working in 2D dimensions.
+Computational cell is 16 x 8 x 0 with resolution 10
+     block, center = (0,0,0)
+          size (1e+20,1,1e+20)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (12,12,12)
+time for set_epsilon = 0.0240331 s
+-----------
+run 0 finished at t = 200.0 (4000 timesteps)
+
+Elapsed run time = 0.4987 s
